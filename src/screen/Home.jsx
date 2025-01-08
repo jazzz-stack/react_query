@@ -40,7 +40,7 @@ export const Home = () => {
                   });
                 }}
               >
-                Edit Todo
+                Edit Todo 1
               </button>
             </div>
           ))}
